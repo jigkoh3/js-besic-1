@@ -6,4 +6,4 @@
 2. แบบเป็น Property
 `module.exports.func1 = (arg)=>{ }`
 ## Run
-`node index.js`# js-besic-1
+`node index.js`
